@@ -14,7 +14,7 @@ The Gmail API is used to interact with users' Gmail inboxes and settings, and su
 
 Here are some cool ideas as sample.You can either modify these problem statements in your own way or else you can come up with your own brainstorming super cool ideas.
 - Chat App using Thread
-- Bulk Mail Sender
+- Bulk Mail Sender with Read Receipts 
 
 ## Resources
 
