@@ -16,3 +16,6 @@
 [submodule "Ecstasy | B7KsOKLYfayjK0Z1RQi7"]
 	path = Ecstasy | B7KsOKLYfayjK0Z1RQi7
 	url = https://github.com/hadui/SHN-GmailAPI
+[submodule "BM4 | O3hhNGN6TjtCwzQcBXWB"]
+	path = BM4 | O3hhNGN6TjtCwzQcBXWB
+	url = https://github.com/jonathanjobby/hacknight-gmail
