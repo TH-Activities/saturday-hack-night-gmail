@@ -46,3 +46,6 @@
 [submodule "Sparrow | C2R6IhUTXU6kIfT3PgaV"]
 	path = Sparrow | C2R6IhUTXU6kIfT3PgaV
 	url = https://github.com/Rithingithub/GmailAPI
+[submodule "Bitcoders | 2ZZ9vewSnWOusQbCPpKw"]
+	path = Bitcoders | 2ZZ9vewSnWOusQbCPpKw
+	url = https://github.com/Arjun-A-I/SHN-Gmail-API
